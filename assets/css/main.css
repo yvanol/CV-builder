@@ -200,8 +200,10 @@ a{
     color: var(--clr-blue);
 }
 .navbar-brand-icon{
-    width: 25px;
+    width: 90px;
     margin-right: 6px;
+    margin-top: 5px;
+    margin-left:-50px;
     opacity: 0.8;
 }
 .brand-and-toggler{
